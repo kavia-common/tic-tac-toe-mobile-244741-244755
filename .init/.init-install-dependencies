@@ -1,0 +1,4 @@
+{
+    "command": "flutter pub get",
+    "working_directory": "/home/kavia/workspace/code-generation/tic-tac-toe-mobile-244741-244755/flutter_frontend"
+}
